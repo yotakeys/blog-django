@@ -1,2 +1,2 @@
-# blog-django
-blog website using django
+# Blog-Django
+Blog website using django, learn from https://djangocentral.com/building-a-blog-application-with-django/
